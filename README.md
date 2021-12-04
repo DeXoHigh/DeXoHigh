@@ -34,9 +34,9 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeXoHigh" alt="GitHub Stats" /> <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=DeXoHigh&show_icons=true&include_all_commits=true" alt="GitHub Stats" /> <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeXoHigh&layout=compact" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeXoHigh&theme=radical" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DeXoHigh&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeXoHigh&layout=compact&theme=radical" alt="GitHub Stats" /> <br/><br/>
     
 </div>
 
