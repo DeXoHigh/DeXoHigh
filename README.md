@@ -16,7 +16,17 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - 📫 Reach out to me at: <a href="dexo1337@pm.me">dexo1337@pm.me</a>
 <br><br>
 <h2 align="center">👀 My PC Stats</h2>
-- ![Laptop](https://img.shields.io/badge/Windows%20PC-Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=blue) 
+<div>
+  
+  <p align="center">
+  <b><em>System:</em></b> <br/>
+    <img src="https://img.shields.io/badge/Windows%20PC-Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=blue" alt="GitHub PC" /> <br/><br/>
+    <b><em>System:</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DeXoHigh&show_icons=true&include_all_commits=true" alt="GitHub Stats" /> <br/><br/>
+    <b><em>System:</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeXoHigh&layout=compact" alt="GitHub Stats" /> <br/><br/>
+    
+</div>
 <br>
 <h2 align="center">👀 My github Stats</h2>
 
