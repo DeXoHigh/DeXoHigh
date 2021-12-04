@@ -24,7 +24,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
     <b><em>Graphic card:</em></b> <br/>
     <img src="https://img.shields.io/badge/Graphic%20card-GTX%201080%20TI-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=blue" alt="GitHub graphic card" /> <br/><br/>
     <b><em>CPU:</em></b> <br/>
-    <img src="https://img.shields.io/badge/CPU-i5%201135%20TH-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=blue" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://img.shields.io/badge/CPU-i5%201135%20TH-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=blue" alt="GitHub Stats" />
     
 </div>
 <br>
