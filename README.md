@@ -10,11 +10,13 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - 🌱 I’m currently learning ...
   - PHP
   - Lua
+  - NodeJS
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- 🎵 I like to listen music.
+- 🎵 I like to listen chill music.
 - 📫 Reach out to me at: <a href="dexo1337@pm.me">dexo1337@pm.me</a>
-
-<h2>👀 My github Stats</h2>
+![Laptop](https://img.shields.io/badge/Windows%20PC-Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=red) 
+<br>
+<h2 align="center">👀 My github Stats</h2>
 
 <div>
   
