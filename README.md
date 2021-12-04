@@ -21,10 +21,10 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   <p align="center">
   <b><em>System:</em></b> <br/>
     <img src="https://img.shields.io/badge/Windows%20PC-Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=blue" alt="GitHub PC" /> <br/><br/>
-    <b><em>System:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=DeXoHigh&show_icons=true&include_all_commits=true" alt="GitHub Stats" /> <br/><br/>
-    <b><em>System:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeXoHigh&layout=compact" alt="GitHub Stats" /> <br/><br/>
+    <b><em>Graphic card:</em></b> <br/>
+    <img src="https://img.shields.io/badge/Graphic%20card-GTX%201080%20TI-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=blue" alt="GitHub graphic card" /> <br/><br/>
+    <b><em>CPU:</em></b> <br/>
+    <img src="https://img.shields.io/badge/CPU-i5-1135%20TH-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=blue" alt="GitHub Stats" /> <br/><br/>
     
 </div>
 <br>
