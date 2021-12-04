@@ -1,7 +1,7 @@
 # Hi there 👋, DeXo High. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DeXoHigh.repoName) [![GitHub followers](https://img.shields.io/github/followers/DeXoHigh.svg?style=social&label=Follow)](https://github.com/DeXoHigh?tab=followers)<br/>
 
-<img align="right" style="border-radius: 50%;" width=300px alt="Unicorn" src="https://i.imgur.com/OWjlLaq.gif" />
+<img align="right" style="border-radius: 15px 50px;border: 2px solid red;" width=300px alt="Unicorn" src="https://i.imgur.com/OWjlLaq.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
