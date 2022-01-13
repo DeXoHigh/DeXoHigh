@@ -18,7 +18,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <h2 align="center">👀 My PC Stats</h2>
 <div>
   
-  <p align="center">
+  <p align="center" style="border-radius: 10% 30% 50% 70%;">
   <b><em>System:</em></b> <br/>
     <img src="https://img.shields.io/badge/Windows-10%2021H1%20PRO-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=blue" alt="GitHub PC" /> <br/><br/>
     <b><em>Graphic card:</em></b> <br/>
