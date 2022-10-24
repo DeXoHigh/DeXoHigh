@@ -1,8 +1,6 @@
 # Hi there 👋, DeXo High. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DeXoHigh.repoName) [![GitHub followers](https://img.shields.io/github/followers/DeXoHigh.svg?style=social&label=Follow)](https://github.com/DeXoHigh?tab=followers)<br/>
 
-<img align="right" style="border-radius: 10% 30% 50% 70%;" width=100px alt="Unicorn" src="https://i.imgur.com/OWjlLaq.gif" />
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 * **I am interested in Web designing, Web development, and digital marketing**
