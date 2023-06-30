@@ -15,7 +15,7 @@ jobs:
       - name: Set up Git
         run: |
           git config --global user.name "dexo"
-          git config --global user.email "dexocash@gmail.com"
+          git config --global user.email "dexo1337@pm.me"
 
       - name: Create time.txt
         run: echo $(date +"%Y-%m-%d %H:%M:%S") > time.txt
