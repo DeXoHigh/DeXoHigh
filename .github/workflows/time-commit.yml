@@ -1,0 +1,27 @@
+name: Time
+
+on:
+  schedule:
+    - cron: '*/8 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "dexo"
+          git config --global user.email "dexocash@gmail.com"
+
+      - name: Create time.txt
+        run: echo $(date +"%Y-%m-%d %H:%M:%S") > time.txt
+
+      - name: Commit changes
+        run: |
+          git add time.txt
+          git commit -m "Update time.txt"
+          git push
