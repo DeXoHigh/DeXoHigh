@@ -1,4 +1,4 @@
-name: Times
+name: Time
 
 on:
   schedule:
