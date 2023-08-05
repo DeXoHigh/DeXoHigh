@@ -20,7 +20,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  🔭 I’m currently learning how to build Website
+  🔭 I’m currently learning AI
   <br>
   👯 I’m looking to collaborate
   <br>
